@@ -1,0 +1,11 @@
+{
+  "name": "password_generator_setusi",
+  "version": "1.0.0",
+  "description": "generating random password",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pradypta",
+  "license": "ISC"
+}
